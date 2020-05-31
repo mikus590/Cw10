@@ -1,0 +1,11 @@
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\bin\Debug\netcoreapp2.1\Cw10.deps.json
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\bin\Debug\netcoreapp2.1\Cw10.runtimeconfig.json
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\bin\Debug\netcoreapp2.1\Cw10.runtimeconfig.dev.json
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\bin\Debug\netcoreapp2.1\Cw10.dll
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\obj\Debug\netcoreapp2.1\Cw10.csproj.CoreCompileInputs.cache
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\obj\Debug\netcoreapp2.1\Cw10.AssemblyInfoInputs.cache
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\obj\Debug\netcoreapp2.1\Cw10.AssemblyInfo.cs
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\bin\Debug\netcoreapp2.1\Cw10.pdb
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\obj\Debug\netcoreapp2.1\Cw10.dll
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\obj\Debug\netcoreapp2.1\Cw10.pdb
+D:\Studia\APBD\Cw10_1\Cw10\Cw10\obj\Debug\netcoreapp2.1\Cw10.csprojAssemblyReference.cache
